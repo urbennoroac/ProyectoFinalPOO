@@ -1,6 +1,6 @@
 # ProyectoFinalPOO
-Proyecto de Administrador de Tareas 2.0
-Proyecto Final
+\n Proyecto de Administrador de Tareas 2.0
+\n Proyecto Final
 Este proyecto contiene 6 clases Tipo J Form
 Estas clases son las siguientes:
 Seleccion: Con este archivo lo que seleccionamos es el tipo de Usuario a utilizar para funcionamiento de nuestro codigo
